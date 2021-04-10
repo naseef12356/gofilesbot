@@ -5,7 +5,7 @@ class Presets(object):
     CAPTION_TEXT_VID = "\n\n<b>File Name:</b> {}\n\n<b>Size:</b> {}"
     ASK_PM_TEXT = "<b>⚠️ Attention</b>\nMedias will only get from BoT !\nStart the bot, Then ask here for movies !" \
                   " നിങ്ങൾ ഇവിടെ ആവശ്യപ്പെടുന്ന മൂവീസ് ബോട്ട് വഴി മാത്രമേ ലഭിക്കുകയുള്ളു. അതിനായി ആദ്യം തന്നെ " \
-                  "ബോട്ട് സ്റ്റാർട്ട് ചെയ്യേണ്ടതാണ്. "
+                  "ബോട്ട് /START ചെയ്യേണ്ടതാണ്. "
     WELCOME_TEXT = "Hello.. <b>{}</b>\n<code>I can help you getting movies from</code> @MovieKeralam. " \
                    "<code>Just Keep this message live Here</code>😉\n\n<b>My Author is: " \
                    "</b><a href='https://t.me/space4renjith'>                 HERE</a>\n" \
